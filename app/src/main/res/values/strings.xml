@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CustomViews</string>
+    <string name="click">Click</string>
+    <string name="clicked">%1$s was clicked</string>
+    <string name="default_currency">R$</string>
+    <string name="default_value">0</string>
 </resources>
