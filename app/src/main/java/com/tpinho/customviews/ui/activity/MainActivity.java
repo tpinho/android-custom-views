@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         final MoneyView moneyView = (MoneyView) findViewById(R.id.money_main_price);
-        moneyView.setValue("15000");
+        moneyView.setValue("50000");
     }
 
 }
